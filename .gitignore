@@ -1,0 +1,5 @@
+# This repo only holds the README and LICENSE: the map itself ships as the release zip.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
